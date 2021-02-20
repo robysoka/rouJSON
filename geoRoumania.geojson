@@ -502,6 +502,7 @@
             "properties": {
                 "cartodb_id": 43,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 4,
                 "name": "Bucuresti",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
