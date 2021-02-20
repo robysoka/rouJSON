@@ -5,7 +5,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 7,
+                "cartodb_id": "07",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Botosani",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -17,7 +17,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 31,
+                "cartodb_id": "31",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Satu Mare",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -29,7 +29,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 25,
+                "cartodb_id": "25",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Maramures",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -41,7 +41,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 34,
+                "cartodb_id": "34",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Suceava",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -53,7 +53,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 5,
+                "cartodb_id": "05",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Bihor",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -65,7 +65,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 24,
+                "cartodb_id": "24",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Iasi",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -77,7 +77,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 6,
+                "cartodb_id": "06",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Bistrita-Nasaud",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -89,7 +89,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 32,
+                "cartodb_id": "32",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Salaj",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -101,7 +101,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 13,
+                "cartodb_id": "13",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Cluj",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -113,7 +113,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 28,
+                "cartodb_id": "28",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Neamt",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -125,7 +125,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 27,
+                "cartodb_id": "27",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Mures",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -137,7 +137,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 21,
+                "cartodb_id": "21",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Harghita",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -149,7 +149,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 38,
+                "cartodb_id": "38",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Vaslui",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -161,7 +161,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 4,
+                "cartodb_id": "04",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Bacau",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -173,7 +173,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 2,
+                "cartodb_id": "02",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Arad",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -185,7 +185,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 1,
+                "cartodb_id": "01",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Alba",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -197,7 +197,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 22,
+                "cartodb_id": "22",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Hunedoara",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -209,7 +209,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 15,
+                "cartodb_id": "15",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Covasna",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -221,7 +221,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 33,
+                "cartodb_id": "33",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Sibiu",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -233,7 +233,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 36,
+                "cartodb_id": "36",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Timis",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -245,7 +245,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 40,
+                "cartodb_id": "40",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Vrancea",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -257,7 +257,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 18,
+                "cartodb_id": "18",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Galati",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -269,7 +269,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 8,
+                "cartodb_id": "08",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Brasov",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -281,7 +281,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 10,
+                "cartodb_id": "10",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Buzau",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -293,7 +293,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 11,
+                "cartodb_id": "11",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Caras-Severin",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -305,7 +305,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 3,
+                "cartodb_id": "03",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Arges",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -317,7 +317,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 39,
+                "cartodb_id": "39",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Valcea",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -329,7 +329,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 9,
+                "cartodb_id": "09",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Braila",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -341,7 +341,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 30,
+                "cartodb_id": "30",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Prahova",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -353,7 +353,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 16,
+                "cartodb_id": "16",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Dambovita",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -365,7 +365,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 20,
+                "cartodb_id": "20",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Gorj",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -377,7 +377,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 26,
+                "cartodb_id": "26",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Mehedinti",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -389,7 +389,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 29,
+                "cartodb_id": "29",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Olt",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -401,7 +401,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 23,
+                "cartodb_id": "23",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Ialomita",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -413,7 +413,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 14,
+                "cartodb_id": "14",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Constanta",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -425,7 +425,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 47,
+                "cartodb_id": "47",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Ilfov",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -437,7 +437,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 17,
+                "cartodb_id": "17",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Dolj",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -449,7 +449,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 12,
+                "cartodb_id": "12",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Calarasi",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -461,7 +461,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 19,
+                "cartodb_id": "19",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Giurgiu",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -473,7 +473,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 35,
+                "cartodb_id": "35",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Teleorman",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -485,7 +485,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 37,
+                "cartodb_id": "37",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Tulcea",
                 "updated_at": "2014-09-16T08:47:27Z"
@@ -497,7 +497,7 @@
                 "type": "MultiPolygon"
             },
             "properties": {
-                "cartodb_id": 43,
+                "cartodb_id": "43",
                 "created_at": "2014-09-16T08:47:27Z",
                 "name": "Bucuresti",
                 "updated_at": "2014-09-16T08:47:27Z"
