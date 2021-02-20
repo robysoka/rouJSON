@@ -32,8 +32,8 @@
             },
             "properties": {
                 "cartodb_id": 25,
-				"identificator": 36,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 36,
                 "name": "Maramures",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -72,6 +72,7 @@
             "properties": {
                 "cartodb_id": 24,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 34,
                 "name": "Iasi",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -84,6 +85,7 @@
             "properties": {
                 "cartodb_id": 6,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 15,
                 "name": "Bistrita-Nasaud",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -96,6 +98,7 @@
             "properties": {
                 "cartodb_id": 32,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 42,
                 "name": "Salaj",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -108,6 +111,7 @@
             "properties": {
                 "cartodb_id": 13,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 20,
                 "name": "Cluj",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -120,6 +124,7 @@
             "properties": {
                 "cartodb_id": 28,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 38,
                 "name": "Neamt",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -132,6 +137,7 @@
             "properties": {
                 "cartodb_id": 27,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 37,
                 "name": "Mures",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -144,6 +150,7 @@
             "properties": {
                 "cartodb_id": 21,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 31,
                 "name": "Harghita",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -156,6 +163,7 @@
             "properties": {
                 "cartodb_id": 38,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 50,
                 "name": "Vaslui",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -168,6 +176,7 @@
             "properties": {
                 "cartodb_id": 4,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 13,
                 "name": "Bacau",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -180,6 +189,7 @@
             "properties": {
                 "cartodb_id": 2,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 3,
                 "name": "Arad",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -192,6 +202,7 @@
             "properties": {
                 "cartodb_id": 1,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 1,
                 "name": "Alba",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -204,6 +215,7 @@
             "properties": {
                 "cartodb_id": 22,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 30,
                 "name": "Hunedoara",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -216,6 +228,7 @@
             "properties": {
                 "cartodb_id": 15,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 24,
                 "name": "Covasna",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -228,6 +241,7 @@
             "properties": {
                 "cartodb_id": 33,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 41,
                 "name": "Sibiu",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -240,6 +254,7 @@
             "properties": {
                 "cartodb_id": 36,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 46,
                 "name": "Timis",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -252,6 +267,7 @@
             "properties": {
                 "cartodb_id": 40,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 49,
                 "name": "Vrancea",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -264,6 +280,7 @@
             "properties": {
                 "cartodb_id": 18,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 28,
                 "name": "Galati",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -276,6 +293,7 @@
             "properties": {
                 "cartodb_id": 8,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 18,
                 "name": "Brasov",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -288,6 +306,7 @@
             "properties": {
                 "cartodb_id": 10,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 19,
                 "name": "Buzau",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -300,6 +319,7 @@
             "properties": {
                 "cartodb_id": 11,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 22,
                 "name": "Caras-Severin",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -312,6 +332,7 @@
             "properties": {
                 "cartodb_id": 3,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 2,
                 "name": "Arges",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -324,6 +345,7 @@
             "properties": {
                 "cartodb_id": 39,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 48,
                 "name": "Valcea",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -336,6 +358,7 @@
             "properties": {
                 "cartodb_id": 9,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 16,
                 "name": "Braila",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -348,6 +371,7 @@
             "properties": {
                 "cartodb_id": 30,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 40,
                 "name": "Prahova",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -360,6 +384,7 @@
             "properties": {
                 "cartodb_id": 16,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 25,
                 "name": "Dambovita",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -372,6 +397,7 @@
             "properties": {
                 "cartodb_id": 20,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 27,
                 "name": "Gorj",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -384,6 +410,7 @@
             "properties": {
                 "cartodb_id": 26,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 35,
                 "name": "Mehedinti",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -396,6 +423,7 @@
             "properties": {
                 "cartodb_id": 29,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 39,
                 "name": "Olt",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -408,6 +436,7 @@
             "properties": {
                 "cartodb_id": 23,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 33,
                 "name": "Ialomita",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -420,6 +449,7 @@
             "properties": {
                 "cartodb_id": 14,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 23,
                 "name": "Constanta",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -432,6 +462,7 @@
             "properties": {
                 "cartodb_id": 47,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 32,
                 "name": "Ilfov",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -444,6 +475,7 @@
             "properties": {
                 "cartodb_id": 17,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 26,
                 "name": "Dolj",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -456,6 +488,7 @@
             "properties": {
                 "cartodb_id": 12,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 21,
                 "name": "Calarasi",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -468,6 +501,7 @@
             "properties": {
                 "cartodb_id": 19,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 29,
                 "name": "Giurgiu",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -480,6 +514,7 @@
             "properties": {
                 "cartodb_id": 35,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 47,
                 "name": "Teleorman",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -492,6 +527,7 @@
             "properties": {
                 "cartodb_id": 37,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 45,
                 "name": "Tulcea",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
@@ -504,6 +540,7 @@
             "properties": {
                 "cartodb_id": 43,
                 "created_at": "2014-09-16T08:47:27Z",
+				"identificator": 4,
                 "name": "Bucuresti",
                 "updated_at": "2014-09-16T08:47:27Z"
             },
